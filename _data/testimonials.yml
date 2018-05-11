@@ -1,16 +1,24 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: 2011 지식경제 R&D 성과전시회
+  title: 2011. 4
+  image: img/exhibition/2011Rnd.jpg
+- name: Robot World 2011
+  title: 2011. 10
+  image: img/exhibition/robotworld2011.png
+- name: 대한민국 교육박람회 2012
+  title: 2012. 1
+  image: img/exhibition/2012edu.jpg
+- name: 2012 지식경제 R&D 성과전시회
+  title: 2012. 6
+  image: img/exhibition/2011Rnd.jpg
+- name: Robot World 2012
+  title: 2012. 10
+  image: img/exhibition/robotworld2012.jpg
+- name: Robot World 2013
+  title: 2013. 10
+  image: img/exhibition/robotworld2013.png
+- name: 대한민국 R&D 대전 2013
+  title: 2013. 11
+  image: img/exhibition/2013rnd.png
+- name: ICT-Forum Korea
+  title: 2014. 5
+  image: img/exhibition/poster2014.jpg

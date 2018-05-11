@@ -315,6 +315,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
   border-radius: 500px;
+  width:100px;
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
