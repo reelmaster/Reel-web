@@ -331,16 +331,17 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #7B7B7B;
 }
 #testimonial .counter-box{
-  font-size: 2 rem;
+  padding: 20px;
 }
 #testimonial .counter-box li {
   width: 50%;
   float: left;
   text-align: center;
-  padding: 20px;
+  margin: 20px;
+  font-size: 50px;
 }
 #testimonial .counter-box li i {
-  font-size: 35px;
+
 }
 #testimonial .counter-box li h4 {
   font-size: 30px;
