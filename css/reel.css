@@ -276,6 +276,17 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-top: 30px;
 }
 
+#call-to-action2 .counter-box{
+  padding: 20px;
+}
+#call-to-action2 .counter-box li {
+  width: 50%;
+  float: left;
+  text-align: center;
+  margin: 20px;
+  font-size: 50px;
+}
+
 /*--
 	Feature Start
 --*/
