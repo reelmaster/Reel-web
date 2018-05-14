@@ -192,7 +192,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #service2 {
   text-align: center;
   padding: 90px 0;
-  background: url("../img/service2-bg.jpg") no-repeat;
+  background: url("../img/service2-bg.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -310,13 +310,13 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #call-to-action2 .counter-box{
   padding: 10px;
-  margin: 10px;
-  font-size: 1.8rem;
-  border-bottom: 1px dashed #e0e0e0;
 }
 #call-to-action2 .counter-box li {
   float: left;
   text-align: center;
+  margin: 20px 0px;
+  font-size: 1.8rem;
+  border-bottom: 1px dashed #e0e0e0;
 }
 
 /*--
