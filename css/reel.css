@@ -185,6 +185,38 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+
+/*--
+	service2 Start
+--*/
+#service2 {
+  text-align: center;
+  padding: 90px 0;
+  background: url("../img/service2-bg.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#service2 .service-item {
+  padding-bottom: 30px;
+}
+#service2 .service-item i {
+  font-size: 60px;
+  color: #4A4656;
+}
+#service2 .service-item h4 {
+  padding-top: 20px;
+  margin: 0;
+  color: #666;
+}
+#service2 .service-item p {
+  color: #888;
+  padding-top: 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+
 /*--
 	call-to-action Start
 --*/
@@ -278,13 +310,13 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #call-to-action2 .counter-box{
   padding: 10px;
+  margin: 10px;
+  font-size: 1.5rem;
+  border-bottom: 1px dashed #e0e0e0;
 }
 #call-to-action2 .counter-box li {
   float: left;
   text-align: center;
-  margin: 10px;
-  font-size: 1.5rem;
-  border-bottom: 1px dashed #e0e0e0;
 }
 
 /*--
