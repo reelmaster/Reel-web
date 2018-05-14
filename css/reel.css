@@ -150,7 +150,6 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
 }
 #intro .block img {
-  padding: 50px;
   width: 100%;
 }
 #intro .section-title {
@@ -253,7 +252,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #call-to-action img{
   display: block;
-  padding: 0 auto;
+  margin: 0 auto;
   width: 90%;
 }
 #call-to-action .btn-call-to-action {
