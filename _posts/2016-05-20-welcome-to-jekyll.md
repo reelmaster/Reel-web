@@ -2,7 +2,6 @@
 layout: post
 title: Welcome to jekyll!
 subtitle: 'Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com'
-date: {}
 author: jekyll
 published: false
 ---
