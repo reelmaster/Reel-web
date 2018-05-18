@@ -21,32 +21,30 @@ permalink: /contact/
 <section id="contact-form">
   <div class="container">
     <div class="row">
+      <form action="https://formspree.io/mjlim@hansung.ac.kr"
+  method="POST">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form action="https://formspree.io/mjlim@hansung.ac.kr"
-      method="POST">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your Name">
+              <input type="text" class="form-control" placeholder="Your Name" name="name">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Email Address">
+              <input type="text" class="form-control" placeholder="Email Address" name="email">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Subject">
+              <input type="text" class="form-control" placeholder="Subject" name="subject">
             </div>
-          </form>
         </div>
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form>
             <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Your Message"></textarea>
+              <textarea class="form-control" rows="3" placeholder="Your Message" name="masage"></textarea>
             </div>
             <button class="btn btn-default" type="submit">Send Message</button>
-          </form>
         </div>
       </div>
+    </form>
     </div>
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
